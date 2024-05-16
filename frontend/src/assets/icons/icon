@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99.09085083007812 94" width="99.09085083007812" height="94" filter="invert(93%) hue-rotate(180deg)">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="99.09085083007812" height="94" fill="#ffffff"></rect><g stroke-linecap="round" transform="translate(10 10) rotate(0 39.54542541503906 37)"><path d="M34.42 1.05 C41.84 -0.07, 52.74 1.87, 59.69 5.34 C66.65 8.82, 72.95 15.29, 76.14 21.92 C79.33 28.55, 80.39 38, 78.81 45.13 C77.23 52.25, 72.43 59.84, 66.66 64.67 C60.9 69.5, 51.98 73.22, 44.22 74.12 C36.47 75.02, 26.98 73.63, 20.14 70.06 C13.3 66.49, 6.36 59.47, 3.18 52.69 C0.01 45.9, -0.61 36.57, 1.09 29.34 C2.78 22.11, 7.11 14.12, 13.37 9.3 C19.63 4.48, 33.97 1.87, 38.64 0.42 C43.32 -1.02, 41.43 -0.05, 41.43 0.63 M23.83 4.13 C30.4 0.86, 41.93 0.47, 49.44 1.71 C56.94 2.94, 63.78 6.3, 68.86 11.53 C73.93 16.76, 79.35 25.91, 79.9 33.08 C80.46 40.25, 76.45 48.17, 72.21 54.55 C67.96 60.92, 61.49 68.22, 54.43 71.33 C47.37 74.44, 37.17 74.77, 29.85 73.21 C22.52 71.66, 15.64 67.24, 10.48 61.99 C5.32 56.75, -0.19 49.15, -1.12 41.73 C-2.05 34.31, 0.79 23.91, 4.91 17.47 C9.04 11.03, 20.64 5.45, 23.63 3.1 C26.62 0.75, 22.55 3, 22.86 3.37" stroke="#1e1e1e" stroke-width="2" fill="none"></path></g><g transform="translate(39.57184475165809 26.13704909609777) rotate(0 10.0107421875 20.69999999999999)"><text x="10.0107421875" y="33.120703125" font-family="Helvetica, Segoe UI Emoji" font-size="36px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">₹</text></g></svg>
